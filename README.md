@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rock
 - 👀 I’m interested in AWS, Linux, K8s, Azure, Ansible, Terraform
-- 🌱 I’m currently learning K8s and Terraform
-- 💞️ I’m looking to collaborate on AWS and Linux.
+- 🌱 I passed AWS solution architect professional exam and CKA and CKS exam.
+- 💞️ I’m looking for AWS architect or devops releated jobs.
 - 📫 How to reach me:
 
 rockwang415@outlook.com
